@@ -1,0 +1,1108 @@
+
+.bande{
+  background-color:#2c3e50;
+  padding: 1%;
+}
+.im{
+
+  margin-left: 10%;
+}
+.t{
+  color: white;
+  font-size: 0.9rem;
+}
+
+.i{
+
+  margin-left: 3%;
+}
+
+
+#to{
+
+  color: white;
+  font-size: 70%;
+  margin-top:0.5rem;
+  margin-left: 10px;
+  display: inline-block;
+
+}
+#tt{
+  color: white;
+  font-size: 70%;
+  margin-top:0.5rem;
+  margin-left: 0.8rem;
+  display: inline-block;
+}
+
+#regs{
+  font-size: 70%;
+  color: #66cdaa;
+  display: inline-block;
+}
+.pos{
+  float: left;
+}
+
+
+
+#fbk{
+
+  margin-left: 1vw;
+  margin-top: 0.1rem;
+  display: inline-block;
+}
+
+#twtr{
+
+  margin-left: 2.5%;
+  margin-top: 1%;
+  display: inline-block;
+
+}
+#email{
+
+  margin-left: 2.5%;
+  margin-top: 1%;
+  display: inline-block;
+
+}
+#emaill{
+
+  margin-left: 2%;
+  margin-top: 1.5%;
+  display: inline-block;
+}
+
+.navbare{
+  color:#1dd2af;
+  margin-left: 1vw;
+  margin-top: 4vh;
+  font-size: 1.5rem;
+  text-decoration: none;
+  text-align: center;
+  text-decoration: none;
+
+}
+.coll{
+  position: relative;
+  color: #707A77!important;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-left: 2vw;
+  margin-top: 4.4vh;
+  /*box-shadow:  10px 5px 5px red;*/
+}
+#rech{
+
+  margin-left: 5vw;
+  margin-top: 2vh;
+}
+.menu{
+  height: 17vh;
+}
+.logo{
+  margin-left: 7.5vw;
+  margin-top: 5vh;
+  display: inline-block;
+
+}
+.disp{
+  display: inline;
+}
+
+
+.bande-s{
+  display: none;
+}
+
+.tit{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  line-height:10%;
+}
+#fe{
+  margin-top: -5%;
+}
+#show{
+margin-top: 1%;
+background-color: #66cdaa	;
+border: none;
+color: white;
+padding: 3% 3%;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 90%;
+}
+#more{
+margin-top: 20px;
+background-color: transparent;
+border: none;
+color: white;
+padding: 3% 3%;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border:2px solid white;
+font-size: 90%;
+}
+
+.tailleim{
+  width:100%!important;
+  height:36rem!important;
+}
+
+.carousel-control-next, .carousel-control-prev{
+  opacity: 8!important;
+  margin: 5%;
+}
+
+#e{
+  height: 2em;
+  width: auto;
+}
+.find{
+
+  margin-left: 40%;
+  color: #C0C0C0;
+  text-align: center;
+}
+.findd{
+  color: white;
+  margin-left: 42%;
+  font-size: 1rem;
+  text-align: center;
+}
+.lp{
+    text-align: center;
+    padding: 0.5em;
+    color:#C0C0C0;
+}
+
+
+.g{
+  width: 16em!important;
+  text-align: center;
+
+}
+#p1{
+
+  background-color: #66cdaa	;
+  border: none;
+  color: white;
+  padding: 5% 15%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.9rem;
+}
+.special{
+  margin-left:38vw;
+  margin-top: 8vh;
+  font-size: 1.7rem;
+}
+
+.fd {
+color: black;
+margin-right: 17%;
+font-family: arial;
+font-size: 15px;
+text-align: center;
+margin-left: 10rem;
+margin-top: 2vw;
+padding-bottom: 3rem;
+}
+/*css les image de ville*/
+.single-portfolio{
+  position: relative;
+  overflow: hidden;
+}
+.portfolio-img{
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -ms-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+}
+.portfolio-text{
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  width:100%;
+  background: rgba(0, 0, 0, 0.7);
+  color:#fff;
+  -webkit-transition:translateY(100%);
+  -moz-transition: translateY(100%);
+  -ms-transition: translateY(100%);
+  -o-transition: translateY(100%);
+  transform:translateY(100%);
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transform:all .5s ease-out;
+
+}
+.portfolio-text p{
+  text-align: justify;
+}
+.single-portfolio:hover .portfolio-text{
+  -webkit-transition:translateY(0);
+  -moz-transition: translateY(0);
+  -ms-transition: translateY(0);
+  -o-transition: translateY(0);
+  transform:translateY(0);
+
+}
+.single-portfolio:hover .portfolio-img{
+  -webkit-transition:scale(1.15);
+  -moz-transition: scale(1.15);
+  -ms-transition: scale(1.15);
+  -o-transition: scale(1.15);
+  transform:scale(1.15);
+  width: 50rem;
+  height: 20rem;
+  /*border-image: 3px solid green;*/
+
+}
+.fcc{
+width: 30em;
+height: 16em;
+
+}
+
+#esp{
+  height: 10rem;
+  background-color: white;
+}
+.cs{
+
+  height: auto;
+  width: 100%;
+  background-image: url(imbo/b.jpg);
+  opacity: 80%;
+  position: relative;
+  display: inline-block;
+}
+.vv{
+  width: auto;
+  height: auto;
+}
+
+
+#bacc{
+    color: white;
+  text-align: center;
+  font-size: 1.7rem;
+margin-right: 2%;
+  margin-top: 5rem;
+}
+
+.fdd{
+  color: Silver;
+  font-family: arial;
+  font-size: 15px;
+  text-align: center;
+  margin-right: 3%;
+  margin-top: 2vw;
+  padding-bottom: 3rem;
+}
+
+.person:hover {
+
+}
+.person{
+  position: absolute;
+  margin-left: 5vw;
+  margin-top: 5.5vh;
+  display: inline-block;
+  z-index: 2;
+}
+.person1{
+  position: absolute;
+  margin-left: 5vw;
+  margin-top: 8.5vh;
+  padding: 0;
+  display: inline-block;
+  z-index: 2;
+}
+.person2{
+  position: absolute;
+  margin-left: 4.5vw;
+  margin-top: 6vh;
+  padding: 0;
+  display: inline-block;
+  z-index: 2;
+}
+.person3{
+  position: absolute;
+  margin-left: 3.5vw;
+  margin-top: 8.5vh;
+  padding: 0;
+  display: inline-block;
+  z-index: 2;
+}
+.cercle{
+  position: relative;
+  margin-left: 2vw;
+  margin-bottom: 20vh;
+  padding: 0;
+  display: inline-block;
+  z-index: 1;
+}
+
+#s1{
+position: relative;
+margin-left: 6vw;
+margin-top: -15vh;
+font-style: normal;
+font-size: 100%;
+color: #C0C0C0;
+padding-bottom: 8vh;
+}
+#s2{
+
+margin-left: 8rem;
+font-style: normal;
+font-size: 15px;
+  color: #C0C0C0;
+}
+#s3{
+  margin-top: 4px;
+margin-left: 8rem;
+font-style: normal;
+font-size: 15px;
+   color: #56DEB1
+}
+#s4{
+  margin-top: 5px;
+  margin-left: 8rem;
+  font-style: normal;
+  font-size: 15px;
+  color: #C0C0C0;
+}
+#s5{
+  margin-top: 5px;
+  margin-left: 8.5rem;
+  font-style: normal;
+  font-size: 15px;
+  color: #C0C0C0;
+}
+#s6{
+  margin-top: 5px;
+  margin-left: 9rem;
+  font-style: normal;
+  font-size: 15px;
+  color: #C0C0C0;
+}
+
+#container{
+  width: 90%;
+  height: 100%;
+  display: flex;
+  margin-left: 4.5rem;
+
+}
+.imp{
+   color: #56DEB1!important;
+     font-size: 20px;
+}
+
+#mrg{
+  margin-top: 22%;
+}
+
+
+.f{
+  borde:2px solide green!important;
+}
+
+.m{
+  color:black;
+  margin-top: 10px;
+  margin-left: 36rem;
+  font-size: 26px;
+}
+.ml{
+  color: black;
+font-family: arial;
+font-size: 15px;
+margin-left: 30rem;
+margin-top: 0px;
+padding-bottom: 30px;
+}
+
+
+/*les image */
+
+.im z{
+  transition: 1s;
+}
+
+.im z:hover{
+  transform:scale(1.3);
+}
+
+.bdd{
+    color: black;
+    height: 90px;
+}
+
+
+/*image*/
+
+
+
+/*
+.fouter{
+  background: #d8bfd8;
+  padding: 35rem;
+}
+
+.pied{
+  background: #f5deb3;
+  padding: 80px;
+}
+.flou{
+  position: relative;
+    background-color: white;
+    opacity: .8;
+
+}
+*/
+
+.t{
+  margin-left: 20px;
+}
+
+
+
+
+
+.box{
+  height: 14rem;
+  padding: 40px;
+  background-image: url(imbo/backg.png);
+  border: 3px solid white;
+  font-size: 12px;
+  flex: 1;
+
+
+  transition: 2s;
+}
+.box:hover{
+  flex: 4;
+  border-top: 3px solid green;
+  overflow: hidden;
+
+}
+#id{
+  background:
+}
+.mrg{
+  margin-top: 2rem;
+}
+#gg{
+  width: 8rem;
+  height: 40px;
+  margin-top: 5px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+#p2{
+
+background-color: #66cdaa	;
+width:40px;
+margin-left: 5px;
+border: none;
+height: 40px;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+.ftr{
+  color: #66cdaa;
+}
+#dde{
+
+  margin-top: 5px;
+  display: inline-block;
+
+}
+
+.bla{
+  color: white;
+  font-size: 10px;
+}
+.bll{
+
+color: white;
+  display: inline-block;
+  font-size: 10px;
+}
+.vv{
+margin-left: 10px;
+color: white;
+  display: inline-block;
+  font-size: 10px;
+}
+.bdr{
+  margin-left:1rem;
+  padding: 1%;
+  display: inline-block;
+}
+.bdr1{
+  margin-left:0rem;
+  padding: 1%;
+  display: inline-block;
+}
+.bv{
+  margin-bottom: 50px;
+}
+.m1{
+
+background: #2F4F4F;
+border: none;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border:2px solid white;
+margin:1px 1px 1px;
+font-size: 10px;
+}
+.brd{
+  border-top: 2px solid #2F6F4F;
+;
+}
+#hom{
+
+    color:#66cdaa	;
+  font-size: 13px;
+  margin-left: 10rem;
+  margin-top: 10px;
+  display: inline-block;
+
+}
+.hom1{
+
+    color:white	;
+  font-size: 11px;
+  margin-left: 2rem;
+  margin-top: 13px;
+  display: inline-block;
+
+}
+#fn{
+  margin-left: 22rem;
+  font-size: 10px;
+}
+#lgf{
+  margin-left: 25rem;
+  scroll-behavior: smooth;
+}
+.bleu{
+  font-size: 10px;
+  color: #66cdaa;
+  margin-left: 3rem;
+}
+
+#ble{
+  font-size: 10px;
+  color: #66cdaa;
+  margin-left: 2rem;
+}
+.blog{
+  width: 100%;
+  height: 50rem;
+
+}
+.mob{
+  display: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+.btncontact {
+  background-color: #66cdaa;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.btncontact1 {
+  background-color: red;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.btncontact:hover {
+  opacity: 0.8;
+}
+
+
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+
+
+}
+.emailform{
+  margin-left: 14rem;
+  margin-top: 3rem;
+}
+.emailform1{
+  position: absolute;
+  margin-left: 40rem;
+  margin-top: -11rem;
+}
+.emailfor{
+  margin-left: 10rem;
+  margin-top: 0.2rem;
+}.emailfor1{
+  position: absolute;
+  width: 20rem;
+  margin-left: 35rem;
+  margin-top: -10rem;
+  height: 25vh;
+}
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)}
+  to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom {
+  from {transform: scale(0)}
+  to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#navbarmobile{display: none;}
+.imagefindetaille{display: none;}
+.bande{display: block;}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .imagefindetaille{display: block;}
+  #navbarmobile{display: block;}
+.navbar-toggler{margin-left: 35rem;font-family: 'Barlow', sans-serif;font-weight:800!important;font-size: 4.25rem!important;margin-top: -12vh;}
+.nav-link {font-weight:bold!important;font-size: 2rem!important;color: black!important;text-decoration: none;margin-left: 20vw!important;}
+.navbar-nav .nav-link{
+  margin-left: 70vw!important;
+}
+  .menu{
+    display: none;
+  }
+    .bdim{
+      display: block;
+      background: #2c3e50;
+      margin-top: 65vh;
+      width: 200vw;
+      margin-left: 50vw;
+    }
+    .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+
+width: 220vw!important;
+margin-left: 4vw!important;
+    }
+    .bande{
+      display: none;
+    }
+    .logomobilep{
+      position: relative;
+      margin-left: 45px;
+
+      margin-top: 10vh;
+    }
+    .i{
+      width: 3%;
+      height: 3%;
+      margin-left: 3%;
+    }
+    .t{
+      color: white;
+      font-size: 0.9rem;
+    }
+    .find{
+      margin-left: 0px!important;
+      font-size: 3rem;
+    }
+    .findd{
+margin-left: 0px!important;
+font-size: 3rem;
+padding: 2rem!important;
+    }
+    #p1{
+      font-size: 3rem!important;
+      width: 90vw!important;
+      height: 20vh!important;
+      padding: 3rem!important;
+      margin-left: 10rem;
+      margin-top: 5rem;
+      margin-bottom: 3rem;
+      text-align: center!important;
+
+    }
+    .tc{
+      margin-top: -1.5rem;
+    }
+    .special{
+      margin-left: 7rem;
+      font-size: 3.5rem;
+    }
+    .fd{
+      font-size: 2.2rem;
+      margin-left: 3rem;
+    }
+    .c1{
+      padding: 6rem!important;
+    }
+    .fcc{
+      width: 230vw!important;
+      height: 100vh!important;
+    }
+    .lp{
+      font-size: 2.5rem;
+      padding: 2rem!important;
+    }
+    .g{
+      padding: 5rem!important;
+      margin-left: 1rem;
+      width: 200vw!important;
+      height: 20vh!important;
+      font-size: 3rem!important;
+
+    }
+    .imagefindetaille {
+      width: 44rem;
+    }
+    #bacc{
+      font-size: 3.5rem!important;
+    }
+    .fdd{
+      font-size: 2rem;
+    }
+    .person{
+      margin-left: 95vw;
+    }
+    .person1{
+      margin-left: 92vw;
+    }
+    .person2{
+      margin-left: 92vw;
+    }
+    .person3{
+      margin-left: 92vw;
+    }
+    #s1{
+      margin-left: 15rem;
+      padding: 0.5rem;
+      margin-bottom: 2rem;
+      font-size: 4rem;
+    }
+    .cercle{
+      margin-left: 16rem;
+    }
+    .b{
+      display: none
+    }
+    .mob{
+      display: block;
+    }
+    .longe{
+      display: none!important;
+    }
+.btn  tt{
+  color: black!important;
+  text-decoration: none!important;
+}
+.box {
+    width: 200rem;
+    height: 20vh;
+    /* margin-left: 5rem; */
+    height: 50vh;
+    padding: 40px;
+     background-image: none;
+    border: 3px solid white;
+    font-size: 50px;
+    flex: 1;
+    transition: 2s;
+}
+
+.logo{
+  margin-left: 2vw;
+}
+.tlf{
+  display: block;
+  float: right;
+}
+
+
+.imagefindetaille{
+  display: block;
+
+}
+.carousel{
+width: 230vw;
+height: 50vh;
+margin-left:-2vw;
+}
+.fmobilee{
+  width: 350vw;
+  margin-left: 2vw;
+}
+    .open-btn {
+    display: flex;
+    justify-content: left;
+    }
+    .carousel-control-next-icon {
+      margin-top: 60vh;
+    }
+    .carousel-control-prev-icon{
+margin-top: 60vh;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon{
+      width: 20vw!important;
+      height: 10vh!important;
+    }
+    /* Stylez et fixez le bouton sur la page */
+    .open-button {
+      width: 80%;
+      height: 9vh;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-size: 2rem;
+margin-left:5vw;
+    position: fixed;
+    }
+    /* Positionnez la forme Popup */
+    .login-popup {
+    position: relative;
+    text-align: center;
+
+    width: 100%;
+    }
+    /* Masquez la forme Popup */
+    .form-popup {
+    display: none;
+    background: black;
+    opacity: 2;
+    position: fixed;
+    left: 45%;
+    top:5%;
+    transform: translate(-45%,5%);
+    border: 2px solid #666;
+    z-index: 9;
+    }
+
+
+    /* Styles pour le conteneur de la forme */
+    .form-container {
+    max-width: 300px;
+    padding: 20px;
+
+    background-color: #fff;
+    }
+
+
+    /* Stylez le bouton de connexion */
+    .form-container .btn {
+    background-color: black;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+    }
+    /* Stylez le bouton pour annuler */
+    .form-container .cancel {
+    background-color: #cc0000;
+    }
+    /* Planez les effets pour les boutons */
+    .form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+    }
+.fni{
+  margin-top: 5rem;
+}
+.mrg{
+  margin-left: 10rem;
+
+}
+.ftr{
+  font-size: 5rem;
+}
+.bla{
+  font-size: 1.5rem;
+}
+#gg{
+  width: 100vw;
+  height: 20vh;
+  font-size: 2rem;
+}
+#p2{
+  width: 20vw;
+  height: 21vh;
+  margin-top: -20rem!important;
+}
+.vv{
+  font-size: 1.5rem;
+}
+.bleu{
+  font-size: 1.5rem;
+}
+.m1{
+  width: 10rem;
+  height: 15vh;
+  font-size: 1.5rem;
+}
+#ble{
+  font-size: 1.5rem!important;
+}
+.bdr{
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+  margin-left: 50vw;
+}
+#hom{
+  font-size: 1rem;
+  margin-left: -10rem;
+
+}
+.hom1{
+  font-size: 1rem;
+
+}
+  }
+  /*  .mob{
+      display: block;
+      background: black;
+    }
+    .im{
+      width: 5%;
+      height: 5%;
+
+
+   }
+   /*
+
+
+   */
+   .bdim{
+     background: #2c3e50;
+
+
+   }
+
+
+
+/*
+
+   /* Fixez le bouton sur le côté gauche de la page the button on the left side of the page */
+
+*/
